@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Apr 23 17:55:27 2024
+# Process ID: 27464
+# Current directory: C:/Users/mriga/OneDrive/Documents/Vivado Projects/sm_tiny_processor/sm_tiny_processor.runs/impl_1
+# Command line: vivado.exe -log processor.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source processor.tcl -notrace
+# Log file: C:/Users/mriga/OneDrive/Documents/Vivado Projects/sm_tiny_processor/sm_tiny_processor.runs/impl_1/processor.vdi
+# Journal file: C:/Users/mriga/OneDrive/Documents/Vivado Projects/sm_tiny_processor/sm_tiny_processor.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source processor.tcl -notrace
